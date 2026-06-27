@@ -2,3 +2,5 @@
 .conda
 .env
 lca-langchainV1-essentials
+__pycache__/
+*.pyc
